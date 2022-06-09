@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto del Río Ponce</h1>
 <h3 align="center">Originally as a Telecommunications Engineer and Reinforcing (my) Learning through research in the field of Artificial Intelligence. PhD in progress.</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence on projects focused on telecommunications**
+- 🔭 I’m currently working on **Artificial Intelligence on projects focused on Telecommunications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
